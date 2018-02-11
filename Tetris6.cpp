@@ -9,6 +9,8 @@ using namespace std;
 
 SDL_Event event;
 
+// this is a comment
+
 const int space = 2;
 const int block_size = 25;
 const int Row = 14;
